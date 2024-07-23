@@ -5,6 +5,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/*
+    Find Nth Non-Repeating Charcter from given String
+    I/P: swissy, 2nd
+    O/P: y
+ */
+
 public class FindNthNonRepeatingCharcter {
 
     public static void main(String[] args) {
