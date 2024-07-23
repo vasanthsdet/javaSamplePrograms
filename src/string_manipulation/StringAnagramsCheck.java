@@ -3,6 +3,12 @@ package string_manipulation;
 import java.util.HashMap;
 import java.util.Map;
 
+/*
+    Anagram Check
+    I/P: S1: Listen, S2: Silent
+    O/P: Are Anagrams: true
+ */
+
 public class StringAnagramsCheck {
 
     public static void main(String[] args) {

@@ -3,6 +3,11 @@ package string_manipulation;
 import java.util.HashSet;
 import java.util.Set;
 
+/*
+    Remove Vowels from given String
+    I/P: Revathi
+    O/P: Rvth
+ */
 public class VowelsRemove {
     public static void main(String[] args) {
         System.out.println("String with out vowels: " + vowelsRemove("Vasanth"));

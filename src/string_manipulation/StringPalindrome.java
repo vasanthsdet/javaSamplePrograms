@@ -1,5 +1,11 @@
 package string_manipulation;
 
+/*
+    String palindrome check
+    I/P: radar
+    O/P: Is Palindrome: true
+ */
+
 public class StringPalindrome {
 
     public static void main(String[] args) {

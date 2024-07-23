@@ -1,5 +1,11 @@
 package string_manipulation;
 
+/*
+    String Reverse
+    I/P: Revathi
+    O/P: ihtaveR
+ */
+
 public class StringReverse {
 
     public static void main(String[] args) {

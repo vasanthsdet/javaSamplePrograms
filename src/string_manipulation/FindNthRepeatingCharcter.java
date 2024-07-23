@@ -5,6 +5,11 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/*
+    Find Nth Repeating Charcter from given String
+    I/P: swissy, 2nd
+    O/P: i
+ */
 public class FindNthRepeatingCharcter {
 
     public static void main(String[] args) {

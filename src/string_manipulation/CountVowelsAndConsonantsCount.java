@@ -3,6 +3,14 @@ package string_manipulation;
 import java.util.HashSet;
 import java.util.Set;
 
+/*
+    Count Vowels and Consonants from given String
+    I/P: Hello World
+    O/P:
+    Vowels Count: 3
+    Consonants Count: 7
+
+ */
 public class CountVowelsAndConsonantsCount {
 
     public static void main(String[] args) {
